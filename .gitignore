@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Catboost temporary files
+catboost_info/
+
+# Archivos de sistema / IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (si aplica)
+.streamlit/secrets.toml
