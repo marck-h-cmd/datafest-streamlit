@@ -187,8 +187,8 @@ with st.sidebar:
             "🧠 4. Modelado & Validación (Gini)",
             "🎯 5. Simulador 360° de Cliente",
             "💰 6. Optimizador de Campañas (ROI)",
-            "📥 7. Auditoría de Entrega (Submission)",
-            "🎤 8. Pitch Deck al Jurado & FAQ"
+            "📥 7. Auditoría de Entrega (Submission)"
+            # "🎤 8. Pitch Deck al Jurado & FAQ"
         ],
         index=0
     )
